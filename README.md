@@ -53,7 +53,7 @@ I build production systems that serve real users. My focus is backend engineerin
 
 ### Projects
 
-**NUESA LMS.** Full learning management system for engineering students at ABUAD, serving 800 to 1,200 active users per month across 9 engineering departments. Built the library extension feature, which handles textbook search, course filtering, and past question access. Tech: React, Vite, Tailwind CSS, Cloudflare Workers, Firestore, R2.
+**NUESA Academia.** Digital learning resource management system for 9 engineering departments at ABUAD. Three-layer architecture: FastAPI backend with Redis-cached search on Google Cloud Run, Cloudflare Worker for direct R2 file search and upload, and Next.js 16 admin portal with analytics dashboards. Includes an AI pipeline that processes 2,000+ PDFs through OCR, generates vector embeddings via Cloudflare BGE-M3, and auto-produces course outlines and MCQs with Gemini. Serves 800 to 1,200 active users per month. Tech: FastAPI, Next.js 16, TypeScript, Cloudflare Workers, Redis, Firestore, R2, Docker, Gemini API, ChromaDB.
 
 **Engineering Hub.** Cross-platform collaboration suite for engineering students. Features AI-powered document analysis, real-time biometric-secured infrastructure, and a domain-bounded RAG-lite pipeline. Built with Flutter, Firebase, Python, Gemini, and Cloudflare.
 
