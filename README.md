@@ -59,6 +59,8 @@ I build production systems that serve real users. My focus is backend engineerin
 
 **Textbook Parser (CourseGen).** AI data processing pipeline that ingests 2,000+ engineering PDFs, applies OCR via Tesseract and Gemini Vision, generates vector embeddings through Cloudflare BGE-M3, and stores them in ChromaDB for semantic search. Also generates course outlines and automated question banks using Gemini. Tech: Python, ChromaDB, Docker, Firestore, Gemini API.
 
+**TRAKS.** Community incident reporting and SOS platform with semantic search. Features real-time alerts, geolocation with reverse geocoding, community verification (confirm/refute), and vector-based post search via Cloudflare Vectorize. Built with FastAPI, Firebase, and Cloudflare.
+
 **AWUN.** Checkout-first field operations platform for engineering subcontractors. Features closeout templates, real-time field reporting, and Paystack payment integration. Built with FastAPI, Firebase, Cloudflare D1, R2, and Workers AI. Includes 273 automated tests.
 
 **AI Soiling Detection System (FYP).** Final year project in Electrical and Electronics Engineering. AI-powered soiling detection and autonomous cleaning system for solar panels. Trained on custom dataset using deep learning pipeline. NVIDIA certified.
