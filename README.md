@@ -5,7 +5,7 @@
   <a href="https://raregazzetto.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0284C7?logo=safari&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/dauda-nasir-729357361" target="_blank">
+  <a href="https://www.linkedin.com/in/nasir-dauda-729357361" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nasirdaud2015@gmail.com" target="_blank">
@@ -107,7 +107,7 @@
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://raregazzetto.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/dauda-nasir-729357361" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/nasir-dauda-729357361" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:nasirdaud2015@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
