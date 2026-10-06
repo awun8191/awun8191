@@ -97,7 +97,7 @@
 ---
 
 ## 🧠 About Me
-- 💬 I like problems that span the whole stack: the sensor, the service, and the screen someone actually taps.
+- 💬 I've been building software for a while now. I'm really into software development and system design.
 - 🌍 Based in Lagos, Nigeria
 - 🎓 B.Eng, Electrical and Electronics Engineering, Afe Babalola University (ABUAD)
 - ⚡ Fun fact: I use Arch, by the way.
