@@ -70,9 +70,17 @@
 
 ---
 
+### 🛡️ [Vigil](https://github.com/awun8191/vigil)
+> A self-hostable proactive AI assistant. It triages your inbox, tasks, and deadlines, then runs the approved work inside a Docker sandbox. The run state lives in PostgreSQL, so a paused run frees its process.
+> **Stack:** FastAPI · PostgreSQL 16 + pgvector · React · TypeScript · Docker · MCP
+> **Highlights:** A stateless six-stage agent loop with a multi-tool barrier, a Postgres job queue with `SKIP LOCKED`, local 384-dimension embeddings, and approval-gated execution that survives a restart.
+
+---
+
 ## 💡 Currently Working On
 - Scaling **NUESA Academia** past its current 800 to 1,200 monthly active users
 - Shipping the next **Engineering Hub** release on Google Play
+- Raising recall on the **Vigil** vector index to its 0.95 target
 
 ---
 
