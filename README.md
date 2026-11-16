@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm <a href="https://github.com/awun8191">Dauda Nasir</a></h1>
-<h3 align="center">Electrical &amp; Electronics Engineer | FastAPI · Flutter · Embedded ML · Cloud</h3>
+<h3 align="center">Backend Engineer: Python, FastAPI, PostgreSQL</h3>
+<p align="center">I build AI backends and commerce APIs in production.</p>
 <p align="center">Lagos, Nigeria &middot; Open to backend roles and freelance</p>
 
 <p align="center">
